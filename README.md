@@ -1,5 +1,6 @@
-<details open>
-<summary><b>Русский</b></summary>
+[Русский](#русский) | [English](#english)
+
+## Русский
 
 Инженер и разработчик. Создаю практичные приложения для Windows и Android, инструменты автоматизации и игровые проекты.
 
@@ -7,10 +8,9 @@
 
 Мне интересно превращать сложные идеи и повседневные задачи в понятные решения, которые делают жизнь удобнее для людей и семей.
 
-</details>
+[Русский](#русский) | [English](#english)
 
-<details>
-<summary><b>English</b></summary>
+## English
 
 Engineer and developer building practical Windows and Android apps, automation tools, and game projects.
 
@@ -18,4 +18,4 @@ I use a range of AI tools in development, including locally run models, to explo
 
 I enjoy turning complex ideas and everyday problems into useful software that makes life easier for people and families.
 
-</details>
+[Русский](#русский) | [English](#english)
